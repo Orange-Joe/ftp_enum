@@ -1,1 +1,1 @@
-Scripts for streamlined enumeration and explitation of FTP servers.
+Scripts for streamlined enumeration and exploitation of FTP servers.
